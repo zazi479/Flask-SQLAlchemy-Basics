@@ -132,13 +132,16 @@ Pasos:
 
 ## Paso 8
 Borrar datos.
-Se había creado  el customer de nombre 'Ashley'.
+
+Primero.
+Hacemos una query para poder encontrar el registro que deseamos y lo asignamos una variable, en nuestro caso es 'Ashley'.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/ece4b2ed05c8a1667ce98465c8717a724fbac961/flask/captura9.15jpg.jpg)
 
-Ahora procedemos a eliminar utilizando el comando:
 
-- db.session.delete(ashley)
+Eliminamos el registro haciendo uso del comando:
+
+- db.session.delete(ashley).
 
 Guardamos el proceso.
 
