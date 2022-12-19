@@ -63,10 +63,24 @@ Quedando nuestro código de la siguiente manera.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/af5205a0834dea20fa4252b6ce4a5d7c31a0bb8b/flask/fianl.jpg)
 
+## Paso 5
+Creación del archivo que contiene nuestra base de datos. Comprobamos su correcto funcionamiento.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/c9271aa59ad91466ec84e05b2479c9b65c397e8d/flask/captura%209.1.jpg)
+ Los pasos que hemos realiazado:
+
+1.Accedemos a la consola Flask haciendo uso del comando flask shell.
+2.Importamos de nuestra aplicación flask "app" db para poder generar nuestra base de datos.
+3.Generamos nuestra base de datos haciendo uso del comando db.create_all().
+
+Ahora comprobamos su funcionamiento con el comando:
+- sqlite3 db.sqlite4
 
 ![]()
 ![]()
-![]()
+
+
+
 ![]()![]()
 ![]()
 ![]()
