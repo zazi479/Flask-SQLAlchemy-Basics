@@ -114,8 +114,33 @@ Procedemos a comprobar que hemos agregado correctamente nuestro producto.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/43c9e1c04d6d946570faab0c8046fe53bbd222ea/flask/captura9.9.jpg)
 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/47738c99df3a9ff2962a0e0eb15227537f3b217d/flask/captura9.10.jpg)
+
+## Paso 7
+Actualizar nuestra base de datos.
+
+Pasos:
+
+Accedemos a nuestra consola Flask.
+Importamos de nuestra app flask "app": db, Customer.
+Realizamos una query utilizando un filtro filter_by() y decimos por convenio que queremos solo el primer registro utilizando first().
+Comprobamos que es el registro que deseamos actualizar.
+En este caso deseo actualizar la dirección karla.address = "...".
+Una vez actualizado el valor, guardamos los cambios db.session.commit().
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/47738c99df3a9ff2962a0e0eb15227537f3b217d/flask/captura9.15jpg.jpg)
 
 
 
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 ![]()
 ![]()
