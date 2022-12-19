@@ -106,10 +106,12 @@ Pasos a seguir:
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/a7663ac8f32438ae8eaccd46402248eebb99fce3/flask/captura9.7.jpg)
 
+Procedemos a comprobar que hemos agregado correctamente nuestro producto.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/43c9e1c04d6d946570faab0c8046fe53bbd222ea/flask/captura9.9.jpg)
 
 
 
-![]()
 ![]()
 ![]()
 ![]()
