@@ -31,12 +31,19 @@ Creamos un archivo Python y procedemos a configurar nuestra base de datos:
 ## Paso 3:
 Creamos nuestras tablas (Models).
 
- Tabla Customer
+ 1.Tabla Customer.
+ 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%201.jpg)
-Tabla Order 
+
+2.Tabla Order.
+
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%202.jpg)
-Tabla Product
+
+3.Tabla Product.
+
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%203.jpg)
+
+
 Como podemos observar:
 
 Creamos las columnas de nuestras tablas y establecemos el tipo de datos de cada una de ellas.
