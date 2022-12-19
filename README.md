@@ -69,9 +69,9 @@ Creación del archivo que contiene nuestra base de datos. Comprobamos su correct
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/c9271aa59ad91466ec84e05b2479c9b65c397e8d/flask/captura%209.1.jpg)
  Los pasos que hemos realiazado:
 
-1.Accedemos a la consola Flask haciendo uso del comando flask shell.
-2.Importamos de nuestra aplicación flask "app" db para poder generar nuestra base de datos.
-3.Generamos nuestra base de datos haciendo uso del comando db.create_all().
+1. Accedemos a la consola Flask haciendo uso del comando flask shell.
+2. Importamos de nuestra aplicación flask "app" db para poder generar nuestra base de datos.
+3. Generamos nuestra base de datos haciendo uso del comando db.create_all().
 
  Ahora nos situamos en la carpeta que contiene la base de datos.
  
@@ -98,11 +98,11 @@ Agregar información a nuestra base de datos.
 
 Pasos a seguir:
 
-1.Accedemos a nuestra consola Flask con el comando - flask shell.
-2.Importamos de nuestra app flask "app": db, Product, Order, Customer.
-3.Para crear un registro primero creamos una variable y una instancia de la clase (model), en este caso queremos agregar un producto llamado computer .
-4.Añadimos a nuestra base de datos el c¡producto haciendo uso del comando db.session.add(nombre_de_la_variable).
-5.Por último, guardamos los cambios con el comando db.session.commit().
+1. Accedemos a nuestra consola Flask con el comando - flask shell.
+2. Importamos de nuestra app flask "app": db, Product, Order, Customer.
+3. Para crear un registro primero creamos una variable y una instancia de la clase (model), en este caso queremos agregar un producto llamado computer .
+4. Añadimos a nuestra base de datos el c¡producto haciendo uso del comando db.session.add(nombre_de_la_variable).
+5. Por último, guardamos los cambios con el comando db.session.commit().
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/a7663ac8f32438ae8eaccd46402248eebb99fce3/flask/captura9.7.jpg)
 
