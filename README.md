@@ -93,7 +93,23 @@ Debemos comprobar que se cumplen los siguiente pasos para que todo este correcto
 - De esa forma comprobamos que todo está en orden y podemos continuar.
 
 
-![]()![]()
+## Paso 6
+Agregar información a nuestra base de datos.
+
+Pasos a seguir:
+
+1.Accedemos a nuestra consola Flask con el comando - flask shell.
+2.Importamos de nuestra app flask "app": db, Product, Order, Customer.
+3.Para crear un registro primero creamos una variable y una instancia de la clase (model), en este caso queremos agregar un producto llamado computer .
+4.Añadimos a nuestra base de datos el c¡producto haciendo uso del comando db.session.add(nombre_de_la_variable).
+5.Por último, guardamos los cambios con el comando db.session.commit().
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/a7663ac8f32438ae8eaccd46402248eebb99fce3/flask/captura9.7.jpg)
+
+
+
+
+![]()
 ![]()
 ![]()
 ![]()
