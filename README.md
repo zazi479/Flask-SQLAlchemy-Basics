@@ -106,13 +106,15 @@ Pasos a seguir:
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/a7663ac8f32438ae8eaccd46402248eebb99fce3/flask/captura9.7.jpg)
 
+Haremos lo mismo con la tabla order:
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/1a77fcf2f08048c567a3c1b207aed5a0e2bef9a2/flask/captura9.8.jpg)
+
 Procedemos a comprobar que hemos agregado correctamente nuestro producto.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/43c9e1c04d6d946570faab0c8046fe53bbd222ea/flask/captura9.9.jpg)
 
-Haremos lo mismo con order:
 
-![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/1a77fcf2f08048c567a3c1b207aed5a0e2bef9a2/flask/captura9.8.jpg)
 
 
 ![]()
