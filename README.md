@@ -52,16 +52,18 @@ En caso de la tabla Order, la columna order_date recibirá por defecto la hora e
 Las columnas que no pueden recibir un valor nulo, contienen dentro de su declaración la palabra reservada nullable con valor False.
 Las columnas, que son únicas, contienen dentro de su declaración la palabra reservada unique con valor True
 
-##Paso 4
+## Paso 4
 
 Establecemos la relación entre nuestras tablas.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%204.jpg)
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%205.jpg)
 
+Quedando nuestro código de la siguiente manera.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/af5205a0834dea20fa4252b6ce4a5d7c31a0bb8b/flask/fianl.jpg)
 
 
-![]()
 ![]()
 ![]()
 ![]()
