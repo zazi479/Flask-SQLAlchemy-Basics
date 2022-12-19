@@ -28,14 +28,32 @@ Creamos un archivo Python y procedemos a configurar nuestra base de datos:
   
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/40e95dd26aac03f8ed750ed64d506fa8517972b5/flask/capt.jpg)
 
+## Paso 3:
+Creamos nuestras tablas (Models).
+
+ Tabla Customer
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%201.jpg)
+Tabla Order 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%202.jpg)
+Tabla Product
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%203.jpg)
+Como podemos observar:
+
+Creamos las columnas de nuestras tablas y establecemos el tipo de datos de cada una de ellas.
+Establecemos como primary_key la columna id en las 3 tablas.
+En caso de la tabla Order, la columna order_date recibirá por defecto la hora en ese momento.
+Las columnas que no pueden recibir un valor nulo, contienen dentro de su declaración la palabra reservada nullable con valor False.
+Las columnas, que son únicas, contienen dentro de su declaración la palabra reservada unique con valor True
+
+##Paso 4
+
+Establecemos la relación entre nuestras tablas.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%204.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/58087ebd2e939c4224d92a7fd8e11bc7a96a107b/flask/capt%205.jpg)
 
 
 
-
-
-![]()
-![]()![]()
-![]()![]()
 ![]()
 ![]()
 ![]()
