@@ -20,7 +20,7 @@ Debemos instalar Flask SQLAlquemy con el siguiente comando:
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/fb64f6a53df01e02fa06b7dc4f3ca504a482004a/flask/captura6.jpg)
 
 ## Paso 2:
-Creamos un archivo Python y procedemos a configurar nuestra base de datos.
+Creamos un archivo Python y procedemos a configurar nuestra base de datos:
 
   -Primero importamos lo que vamos a necesitar.
   -Creamos una instancia que por defecto se llama app.
