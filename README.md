@@ -73,12 +73,24 @@ Creación del archivo que contiene nuestra base de datos. Comprobamos su correct
 2.Importamos de nuestra aplicación flask "app" db para poder generar nuestra base de datos.
 3.Generamos nuestra base de datos haciendo uso del comando db.create_all().
 
-Ahora comprobamos su funcionamiento con el comando:
+ Ahora nos situamos en la carpeta que contiene la base de datos.
+ 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/c09bc0f9e42452ffe12f65739b302501ccfb6db9/flask/captura9.4.jpg)
+
+Una vez dentro podemos comprobar su funcionamiento con el comando:
+
 - sqlite3 db.sqlite4
 
-![]()
-![]()
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/c09bc0f9e42452ffe12f65739b302501ccfb6db9/flask/captura9.5.jpg)
 
+
+Debemos comprobar que se cumplen los siguiente pasos para que todo este correcto
+
+- Debemos verificar que tenemos instalada la herramienta sqlite3.
+- Ejecutamos el comando sqlite3 nombre_del_archivo_db.
+- Verificamos las tablas creadas con el comando .tables.
+- Verificamos el esquema de cada una de nuestras tablas con el comando .schema.
+- De esa forma comprobamos que todo está en orden y podemos continuar.
 
 
 ![]()![]()
