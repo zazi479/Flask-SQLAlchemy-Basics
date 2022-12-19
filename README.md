@@ -143,8 +143,9 @@ Ahora procedemos a eliminar utilizando el comando:
 Guardamos el proceso.
 
 -  db.session.commit
--  
+
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/ece4b2ed05c8a1667ce98465c8717a724fbac961/flask/captura9.16.jpg)
+
 
 
 ![]()
