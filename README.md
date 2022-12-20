@@ -198,6 +198,7 @@ Para ello accedemos a nuestra base de datos con el comando sqlite3 nombre_de_la_
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap6.jpg)
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap7.jpg)
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap8.jpg)
+
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap9.0.jpg)
 
 Como podemos observar, nuestra base de datos tiene la información deseada.
@@ -209,6 +210,12 @@ Pedidos realizados por un cliente.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/d1b0b42fc4b43a1e16044747c4587b0d9cd5f13b/flask/cape/cap9.1.1.jpg)
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/d1b0b42fc4b43a1e16044747c4587b0d9cd5f13b/flask/cape/cap9.1.jpg)
+
+
+Como podemos observar, nuestro método funciona correctamente.
+
+Queremos saber cuantos pedidos hay pendientes.
+
 
 
 ![]()
