@@ -150,9 +150,12 @@ Guardamos el proceso.
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/ece4b2ed05c8a1667ce98465c8717a724fbac961/flask/captura9.16.jpg)
 
 ## Paso 9
+
+
 Generar información para nuestra base de datos.
 Para ello utilizamos la librería Faker para generar datos falsos. Ya la hemos instalado desde el inicio del tutorial cuando creamos el entorno de trabajo.
 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap1.jpg)
 
 Creamos un método para generar 100 clientes falsos.
 
@@ -189,11 +192,43 @@ Para ello accedemos a nuestra base de datos con el comando sqlite3 nombre_de_la_
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/faker/cap4.jpg)
 
-
-
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap5.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap6.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap7.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap8.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/eb2894056cb37c9c2dfdfa259c4d5c4a96bf7d6a/flask/faker/cap9.0.jpg)
+![]()
+![]()
 
 
 ![]()
+![]()
+![]()
+
+![]()
+![]()
+![]()
+
+
+![]()
+![]()
+![]()
+
+
+![]()
+![]()
+![]()
+
+
+![]()
+![]()
+![]()
+
+
+![]()
+![]()
+![]()
+
 ![]()
 ![]()
 ![]()
