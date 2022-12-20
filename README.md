@@ -149,15 +149,50 @@ Guardamos el proceso.
 
 ![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/ece4b2ed05c8a1667ce98465c8717a724fbac961/flask/captura9.16.jpg)
 
+## Paso 9
+Generar información para nuestra base de datos.
+Para ello utilizamos la librería Faker para generar datos falsos. Ya la hemos instalado desde el inicio del tutorial cuando creamos el entorno de trabajo.
 
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+Creamos un método para generar 100 clientes falsos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/jack/jack1.jpg)
+
+Creamos un método para generar 1000 pedidos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/jack/jack2.jpg)
+
+Creamos un método para agregar 10 productos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/jack/jack3.jpg)
+
+Establecemos la relación entre Order y Product.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/jack/jack4.jpg)
+
+Creamos un método para llamar a las funciones anteriormente creadas y generar la información para nuestra base de datos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/jack/jack5.jpg)
+
+Borramos la base de datos que creamos al inicio, con el comando:
+- rm db.sqlite4
+
+Abrimos nuestra consola Flask e importamos el método para generar información.
+
+Realizamos el comando - Flask shell e importamos la nueva base de datos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/faker/cap3.jpg)
+
+### Verificamos que la información ha sido correctamente generada.
+
+Para ello accedemos a nuestra base de datos con el comando sqlite3 nombre_de_la_base_de_datos.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/5e8a4abf3c186346590ad4249507681854abb054/flask/faker/cap4.jpg)
+
+
+
+
+
 ![]()
 ![]()
 ![]()
