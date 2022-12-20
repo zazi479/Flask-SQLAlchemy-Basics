@@ -216,36 +216,54 @@ Como podemos observar, nuestro método funciona correctamente.
 
 Queremos saber cuantos pedidos hay pendientes.
 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query5.jpg)
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/1.jpg)
+
+Número de clientes.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query6.jpg)
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/2.jpg)
+Vemos que funciona correctamente.
 
 
-![]()
-![]()
-![]()
+Órdenes con cupón de compra.
+Que no sea nulo y no sea el cupón "FREESHIPPING".
 
-![]()
-![]()
-![]()
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query7.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/3.jpg)
 
 
-![]()
-![]()
-![]()
+Queremos los ingresos en los x días anteriores, por defecto definimos 30.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query8.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape1.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape2.jpg)
 
 
-![]()
-![]()
-![]()
+Vemos que todo funciona correctamente.
+
+Tiempo promedio que se demora un cliente en completar su compra.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query9.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape3.jpg)
+
+Vemos que todo funciona correctamente.
+
+Por último queremos saber cuantos clientes han gastado una cantidad superior a x cantidad de dollars.
+
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/query/query10.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape4.jpg)
 
 
-![]()
-![]()
-![]()
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape5.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape6.jpg)
+
+Vemos que todo funciona correctamente e hicimos varias pruebas con diversas cantidades.
 
 
-![]()
-![]()
-![]()
+# Final del curso 
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/4f33b799398537d3af915d24b727f7066e231784/flask/fin+.jpg)
+![](https://github.com/zazi479/Flask-SQLAlchemy-Basics/blob/f105e52995475015de9220582a7da08006b9b93a/flask/cape/cape7.jpg)
 
-![]()
-![]()
-![]()
